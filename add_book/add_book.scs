@@ -1,0 +1,5 @@
+add_book
+=> nrel_main_idtf: 
+	[Dobavit knigy] (* <-lang_ru;; *) ;
+	[Add book] (* <-lang_en;; *) ;
+ <- ui_external_languages;;

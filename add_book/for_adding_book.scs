@@ -1,0 +1,11 @@
+
+
+nrel_published<- sc_node_norole_relation;;
+nrel_number_of_pages<- sc_node_norole_relation;;
+nrel_genre<- sc_node_norole_relation;;
+
+nrel_published=> nrel_main_idtf: [издано*] (* <- lang_ru;; *);;
+nrel_number_of_pages=> nrel_main_idtf: [страниц*] (* <- lang_ru;; *);;
+nrel_genre=> nrel_main_idtf: [жанр*] (* <- lang_ru;; *);;
+
+
